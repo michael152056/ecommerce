@@ -1,0 +1,18 @@
+{
+    "HOME": {
+      "TITLE": "Hello Angular with ngx-translate!",
+      "SELECT": "Change language"
+    },
+    "flags":{
+        "es": "Spanish",
+        "en": "English",
+        "fr": "French"
+      },
+    "head":{
+        "wishlist": "Wishlist",
+        "account": "My account",
+        "compare": "Compare"
+     }
+    
+  }
+  

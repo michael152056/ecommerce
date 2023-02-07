@@ -1,0 +1,17 @@
+{
+    "HOME": {
+      "TITLE": "Hola angular con ng translate!",
+      "SELECT": "Cambiar de idioma"
+    }, 
+    "flags":{
+        "es": "Español",
+        "en": "Inglés",
+        "fr": "Francés"
+      },
+      "head":{
+        "wishlist": "Lista de deseos",
+        "account": "Mi cuenta",
+        "compare": "Comparar"
+     }
+  }
+  
